@@ -30,6 +30,7 @@ env:
 branches:
   only:
     - master
+    - e2e-test
     - /^3\.0$/
     - /^3\.x$/
     - /^release-.*$/
